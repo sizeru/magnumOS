@@ -1,1 +1,0 @@
-MagnumOS is the working title of an OS in Project Omelas.
